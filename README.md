@@ -1,48 +1,68 @@
-# coding_challenge-26 - Helping with the COVID 19 pandemic
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-That last month has been a strange one in our world. It seems the entire world is coming together to try and tackle the COVID 19 outbreak. In this month's challenge, we are brinigng together all the brains in the ZTM community to see if we can build something useful to tackl this worldwide problem!
+## Available Scripts
 
-You can work on a project individually or in a group and you can use the below free APIs and data sources to try and tackle a problem of your choice:
+In the project directory, you can run:
 
-**--> COVID 19 Free APIs: [this one](https://covid-19-apis.postman.com/) or [this other one](https://covid19api.com/)**
+### `yarn start`
 
-**--> COVID 19 Free Dataset: [here](https://github.com/nytimes/covid-19-data)**
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-Please Use the **#coding-challenge** channel on Discord to discuss and share your work **or if you would like to look for people to work with on a project.** At the end of the challenge, I will compile everyone's submitted websites/projects/code on here to showcase what the ZTM community has built. 
+### `yarn test`
 
-## What Should You Build?
-It is up to you what kind of project you want to build and with how many people. The key is that you are able to finish it all by the deadline for submission: April 30th, 2020. 
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Some ideas include:
+### `yarn build`
 
-**1. Health:** Address and scale a range of health initiatives, including preventative/hygiene behaviors (especially for at-risk countries and populations), supporting frontline health workers, scaling telemedicine, contact tracing/containment strategies, treatment and diagnosis development.
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-**2. Vulnerable Populations:** Problems faced by the groups of people who are disproportionately affected by the various health, economic, and social issues related to the COVID outbreak around the world, such as those with underlying health conditions or a thin social safety net.
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-**3. Businesses:** The set of problems that businesses are facing to stay afloat, collaborate effectively, and move parts of their business online.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-**4. Community:** Promoting connection to friends, family, and neighbors to combat social isolation and the digitizing of public services for local governments.
+### `yarn eject`
 
-**5. Education:** Alternative learning environments and tools for students, teachers, and entire school systems.
-(*credit to https://covid-global-hackathon.devpost.com/)
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Submissions:
-At the end of the challenge, we will post everyone's projects down below so you can see what others have done. In order to see your submission below, make sure you read the next section for the submission guidelines (In *The Rules Are* section)!
-  
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-## The Rules Are:
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-1. **You have until April 30th at 11:59pm EST** to submit your project (using Github. If you don't know how to do that, check out the lecture in the Git + Github section of the course). You will have to submit the link to the **#coding-challenge** Discord group with the following message:  *-challenge URL LINK TO YOUR ENTRY"* . The bot will listen for the command and will reply with "thanks for your submission" if it succeeded.
+## Learn More
 
-2. Use whatever tools you have as developers (google, friends, Discord, programming buddy etc...) but I will not be offering any help with this challenge. Just like a developer, you must solve a problem and build something that will be challenging. Nobody will hold your hand during the job so we want to experience that by figuring it all out on your own with your team. 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Looking for more challenges?
-We highly recommend checking out the back catalogue of [coding challenges](https://zerotomastery.io/community/coding-challenges/?utm_source=github&utm_medium=coding_challenge-25). With varying levels of complexity there is something to test and push every skill level. 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-## One Last Thing!
+### Code Splitting
 
-**Please note: As with all my challenges there is zero benefit or monetary gain I receive from it. This is just my way of thanking my students and making sure that you are able to continue gaining valuable knowledge outside of just my videos. It would mean a lot to me if you are able to rate my course...5 star reviews make my day :)**
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
+### Analyzing the Bundle Size
 
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `yarn build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
