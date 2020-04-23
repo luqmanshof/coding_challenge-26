@@ -3,3 +3,7 @@
 + react-countup@4.3.3
 + react-chartjs-2@2.9.0
 + axios@0.19.2
++ @material-ui/core@4.9.11
+
+
+<!-- npm i -g react-scripts -->
