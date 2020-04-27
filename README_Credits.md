@@ -1,4 +1,4 @@
-
+## Package used:
 + classnames@2.2.6
 + react-countup@4.3.3
 + react-chartjs-2@2.9.0
@@ -7,5 +7,6 @@
 + chart.js@2.9.3
 + gh-pages@2.2.0
 
-
-<!-- npm i -g react-scripts -->
+## Credit:
+JavaScript Mastery
+https://www.youtube.com/watch?v=khJlrj3Y6Ls&t=956s
