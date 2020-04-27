@@ -8,3 +8,4 @@
 
 
 <!-- npm i -g react-scripts -->
+<!-- Added more styles and responsiveness -->
