@@ -5,7 +5,7 @@
 + axios@0.19.2
 + @material-ui/core@4.9.11
 + chart.js@2.9.3
++ gh-pages@2.2.0
 
 
 <!-- npm i -g react-scripts -->
-<!-- Added more styles and responsiveness -->
